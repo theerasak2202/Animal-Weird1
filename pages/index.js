@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
     
-    
+    window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
   return (
     <>
       <Head>
@@ -22,7 +22,7 @@ export default function Home() {
    
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
+     
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
