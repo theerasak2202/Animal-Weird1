@@ -6,7 +6,8 @@ import styles from '../styles/Home.module.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-    window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
+    
+    
   return (
     <>
       <Head>
