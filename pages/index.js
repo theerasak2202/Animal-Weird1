@@ -20,8 +20,7 @@ export default function Home() {
         <meta property="og:image" content="https://baibunviwe.com/wp-content/uploads/2022/12/20-1-666x445.jpg" />
    
         <link rel="icon" href="/favicon.ico" />
-        window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
-      </Head>
+        </Head>
      
       <main className={styles.main}>
         <div className={styles.description}>
