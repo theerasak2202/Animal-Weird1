@@ -23,9 +23,7 @@ export default function Home() {
         </Head>
      
       <main className={styles.main}>
-    <script>
-window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
-</script>
+    
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
@@ -33,6 +31,7 @@ window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-spec
           </p>
           <div>
             <a
+              window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
               href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
               target="_blank"
               rel="noopener noreferrer"
