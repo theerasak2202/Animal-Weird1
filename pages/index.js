@@ -6,9 +6,8 @@ import styles from '../styles/Home.module.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-    
-    window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
-  return (
+
+    return (
     <>
       <Head>
         <title>Create Next App</title>
@@ -21,6 +20,7 @@ export default function Home() {
         <meta property="og:image" content="https://baibunviwe.com/wp-content/uploads/2022/12/20-1-666x445.jpg" />
    
         <link rel="icon" href="/favicon.ico" />
+        window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
       </Head>
      
       <main className={styles.main}>
