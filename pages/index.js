@@ -6,6 +6,7 @@ import styles from '../styles/Home.module.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
+    
 
     return (
     <>
@@ -126,6 +127,15 @@ export default function Home() {
             </p>
           </a>
         </div>
+<body>
+<script> 
+            //Replace function that replace the current page. 
+			function Replace() { 
+					location.replace("https://mindphp.com/") 
+			} 
+
+		</script>
+</body>
       </main>
     </>
   )
